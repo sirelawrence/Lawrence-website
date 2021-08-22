@@ -35,8 +35,8 @@ education:
     institution: Universität Potsdam, Germany
     year: 2017
   - course: BSc in Economics
-  - institution: Europa-Universität Viadrina, Frankfurt (Oder), Germany
-  - year: 2014 
+    institution: Europa-Universität Viadrina, Frankfurt (Oder), Germany
+    year: 2014 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
