@@ -81,4 +81,4 @@ I am looking forward to applying my acquired knowledge at the next professional 
 
 Feel free to get acquainted with me and my work. Also, please do not hesitate to get in touch with me, I am looking forward to hearing from you.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{% staticref "uploads/cv.pdf" %}}CV{{% /staticref %}}.
