@@ -4,10 +4,8 @@
 widget: featured
 
 # Status
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
-
-# Order
-weight: 25
+---
