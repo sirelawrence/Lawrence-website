@@ -1,9 +1,10 @@
 ---
 widget: featured
-headless: true  # This file represents a page section.
 
 # Status
 active: true
+
+headless: true  # This file represents a page section.
 
 # Working papers
 
