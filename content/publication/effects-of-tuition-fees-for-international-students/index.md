@@ -25,6 +25,9 @@ categories:
   - H52
   - I23
   - O15
+tags:
+  - foreign students
+  - tuition fees
 image:
   filename: ""
   focal_point: ""
