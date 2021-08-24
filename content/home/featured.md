@@ -1,36 +1,24 @@
----
-widget: featured
-widget_id: publications
-weight: 30
-title: Working Papers
-subtitle: ""
-active: true
-content:
-  page_type: publication
-  count: 0
-  filters:
-    author: ""
-    category: ""
-    publication_type: ""
-    tag: ""
-  order: desc
-headless: true
-design:
-  view: 3
----
 widget: featured
 headless: true  # This file represents a page section.
 
-# Samples of my work
+# Working papers
 
 content:
-  # Working papers
+  # Page type to display. E.g. post, event, or publication.
   page_type: publication
+  # Choose how much pages you would like to display (0 = all pages)
   count: 1
+  # Page order. Descending (desc) or ascending (asc) date.
   order: desc
-  filters: ''
+  # Optionally filter posts by a taxonomy term.
+  filters:
     tag: ''
     category: ''
     publication_type: ''
-design: 3
-view: 3
+design:
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view: 3
