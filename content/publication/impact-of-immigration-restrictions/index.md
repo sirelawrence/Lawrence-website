@@ -32,4 +32,5 @@ image:
   preview_only: false
 
 url_pdf: https://drive.google.com/file/d/1LWxzUbQAY4ksKvH5WB-aPcvCsZ-AyE1R/view?usp=sharing
+
 ---
