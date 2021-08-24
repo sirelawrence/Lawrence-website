@@ -75,7 +75,7 @@ highlight_name: false
 
 Welcome to my website!
 
-My name is Andreas Vortisch, I am a PhD candidate in Economics at the University of Mississippi. My research focuses on the economics of migration, especially migration motives, assimilation and migration policies. Samples of my work, such as my Job Market Paper, and my CV can be found below.
+My name is Andreas Vortisch, I am a PhD candidate in Economics at the University of Mississippi. My research focuses on the economics of migration, especially migration motives, assimilation and migration policies. Samples of my work and my CV can be found below.
 
 I am looking forward to applying my acquired knowledge at the next professional level after my graduation in the spring of 2022.
 
