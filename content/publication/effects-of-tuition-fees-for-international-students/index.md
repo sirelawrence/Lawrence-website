@@ -19,12 +19,16 @@ abstract: Education has become a highly international export good with
   contrast to state government motivations, I find no evidence for a short-term
   decrease in exam failure rates.
 draft: true
-featured: false
+featured: true
 categories:
   - F22
+  - H52
+  - I23
+  - O15
 image:
   filename: ""
   focal_point: ""
   preview_only: false
-date: 2021-08-24T20:14:43.526Z
+ url_pdf: https://drive.google.com/file/d/1AfBcw8omfIzCezSW5XPOsujXc4K9CFIl/view?usp=sharing
+date: 2021-08-24T00:00:00Z
 ---
