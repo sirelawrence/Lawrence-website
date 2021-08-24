@@ -22,7 +22,7 @@ content:
     tag: ''
     category: ''
     publication_type: ''
-design:
+design: 1
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
