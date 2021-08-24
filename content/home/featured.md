@@ -4,7 +4,8 @@ widget: featured
 # Status
 active: true
 
-headless: true  # This file represents a page section.
+# This file represents a page section.
+headless: true
 
 weight: 25
 
