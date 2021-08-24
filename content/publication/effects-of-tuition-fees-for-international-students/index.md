@@ -19,10 +19,10 @@ abstract: Education has become a highly international export good with
   decrease in exam failure rates.
 draft: false
 featured: true
+url_pdf: https://drive.google.com/file/d/1AfBcw8omfIzCezSW5XPOsujXc4K9CFIl/view?usp=sharing
 image:
   filename: ""
   focal_point: ""
   preview_only: false
 date: 2021-08-24T23:26:00.000Z
 ---
-url_code: https://drive.google.com/file/d/1AfBcw8omfIzCezSW5XPOsujXc4K9CFIl/view?usp=sharing
