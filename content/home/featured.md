@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 
 weight: 25
 
-# Working papers
+title: Research
 
 content:
   # Page type to display. E.g. post, event, or publication.
@@ -28,5 +28,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-view: 1
+view: 4
 ---
