@@ -5,7 +5,7 @@ publication_types:
   - "3"
   - "1"
 authors:
-  - Vortisch
+  - admin
 abstract: Immigration restrictions to the US are a rather modern policy. One of
   the most significant policy changes, the Johnson-Reed Act of 1924, drastically
   limited the number of new immigrants per year, especially from Asia. In
@@ -22,12 +22,20 @@ abstract: Immigration restrictions to the US are a rather modern policy. One of
   declined. Preliminary individual panel data analysis does not support the
   current findings in the cross-sectional evaluation.
 draft: true
-featured: false
+featured: true
+categories:
+  - J61
+  - F22
+  - J15
+  - J31
 tags:
   - restrictions
+  - immigration
+  - Philippines
 image:
   filename: ""
   focal_point: ""
   preview_only: false
-date: 2021-08-24T20:14:27.021Z
+url_pdf: https://drive.google.com/file/d/1LWxzUbQAY4ksKvH5WB-aPcvCsZ-AyE1R/view?usp=sharing
+date: 2021-08-24T00:00:00Z
 ---
