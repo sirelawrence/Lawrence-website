@@ -19,10 +19,10 @@ content:
   # Page order. Descending (desc) or ascending (asc) date.
   order: asc
   # Optionally filter posts by a taxonomy term.
-  filters:
-    tag: ''
-    category: ''
-    publication_type: ''
+  # filters:
+   # tag: ''
+   # category: ''
+   # publication_type: ''
 design: 1
   # Toggle between the various page layout types.
   #   1 = List
