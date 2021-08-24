@@ -1,4 +1,6 @@
 ---
+# An instance of the Featured widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
 widget: featured
 
 # Status
@@ -10,6 +12,7 @@ headless: true
 weight: 25
 
 title: Research
+subtitle: ""
 
 content:
   # Page type to display. E.g. post, event, or publication.
@@ -23,11 +26,13 @@ content:
    # tag: ''
    # category: ''
    # publication_type: ''
+   
 design:
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 4
+  view: 2
+  
 ---
