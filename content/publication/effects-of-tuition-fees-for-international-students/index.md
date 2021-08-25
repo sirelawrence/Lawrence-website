@@ -20,6 +20,8 @@ abstract: Education has become a highly international export good with
 draft: false
 featured: true
 url_pdf: https://drive.google.com/file/d/1AfBcw8omfIzCezSW5XPOsujXc4K9CFIl/view?usp=sharing
+url_slides: https://drive.google.com/file/d/14AZjHIX66aeneVXLNUFHCHe67TyGL9Nb/view?usp=sharing
+url_video: https://drive.google.com/file/d/1Csy7-DIjSkoLZY81RLfLXJ2yK9eXA8N2/view?usp=sharing
 image:
   filename: ""
   focal_point: ""
