@@ -11,12 +11,12 @@ header:
   caption: "Impressum/Imprint"
   image: ""
   
-Angaben gemäß § 5 TMG
-Andreas Vortisch
-319 Odom
-38677 University, MS, USA
-E-Mail: abvortis@olemiss.edu
-Quelle: https://www.e-recht24.de
+  Angaben gemäß § 5 TMG
+  Andreas Vortisch
+  319 Odom
+  38677 University, MS, USA
+  E-Mail: abvortis@olemiss.edu
+  Quelle: https://www.e-recht24.de
 ---
 
 Add your privacy policy here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
