@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 'andreasvortisch.de' # Website name
-baseurl: 'andreasvortisch.de' # Website URL
+title: 'andreasvortisch.com ' # Website name
+baseurl: 'andreasvortisch.com' # Website URL
 copyright: '© {year} Andreas Vortisch' # Footer text, e.g. '© {year} Me'
 
 ############################
