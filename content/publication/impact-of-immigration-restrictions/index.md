@@ -23,6 +23,8 @@ abstract: Immigration restrictions to the US are a rather modern policy. One of
 draft: false
 featured: true
 url_pdf: https://drive.google.com/file/d/1LWxzUbQAY4ksKvH5WB-aPcvCsZ-AyE1R/view?usp=sharing
+url_slides: https://drive.google.com/file/d/1wV4wsn1nWnE81LEFtmB5idOHNzG3n6AV/view?usp=sharing 
+url_video: https://youtu.be/yJeE9x0_xW4
 image:
   filename: ""
   focal_point: ""
