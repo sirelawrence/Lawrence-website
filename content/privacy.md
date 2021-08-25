@@ -13,8 +13,13 @@ header:
 ---
 
 Angaben gemäß § 5 TMG
+
   Andreas Vortisch
+  
   319 Odom
+  
   38677 University, MS, USA
+  
   E-Mail: abvortis@olemiss.edu
+  
   Quelle: https://www.e-recht24.de
