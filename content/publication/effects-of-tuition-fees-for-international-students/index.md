@@ -1,10 +1,4 @@
 ---
-title: Effects of Tuition Fees for International Students
-subtitle: Migration Flows to Germany
-publication_types:
-  - "1"
-authors:
-  - admin
 abstract: Education has become a highly international export good with
   increasing numbers of students learning abroad. Yet, little is known about the
   way international students migrate and how policies influence their decision.
@@ -18,13 +12,20 @@ abstract: Education has become a highly international export good with
   contrast to state government motivations, I find no evidence for a short-term
   decrease in exam failure rates.
 draft: false
-featured: true
 url_pdf: https://drive.google.com/file/d/1AfBcw8omfIzCezSW5XPOsujXc4K9CFIl/view?usp=sharing
-url_slides: https://drive.google.com/file/d/14AZjHIX66aeneVXLNUFHCHe67TyGL9Nb/view?usp=sharing
+publication_types:
+  - "1"
+authors:
+  - admin
 url_video: https://drive.google.com/file/d/1Csy7-DIjSkoLZY81RLfLXJ2yK9eXA8N2/view?usp=sharing
+featured: true
+date: 2021-08-24T23:26:00.000Z
+url_slides: https://drive.google.com/file/d/14AZjHIX66aeneVXLNUFHCHe67TyGL9Nb/view?usp=sharing
+title: The Effect of Baden-Württemberg's Tuition Fees on International Students
+  Outcomes
+subtitle: ""
 image:
   filename: ""
   focal_point: ""
   preview_only: false
-date: 2021-08-24T23:26:00.000Z
 ---
