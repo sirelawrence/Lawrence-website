@@ -1,10 +1,4 @@
 ---
-title: Impact of Immigration Restrictions
-subtitle: Evidence from the Johnson-Reed Act
-publication_types:
-  - "1"
-authors:
-  - admin
 abstract: Immigration restrictions to the US are a rather modern policy. One of
   the most significant policy changes, the Johnson-Reed Act of 1924, drastically
   limited the number of new immigrants per year, especially from Asia. In
@@ -21,13 +15,19 @@ abstract: Immigration restrictions to the US are a rather modern policy. One of
   declined. Preliminary individual panel data analysis does not support the
   current findings in the cross-sectional evaluation.
 draft: false
-featured: true
 url_pdf: https://drive.google.com/file/d/1LWxzUbQAY4ksKvH5WB-aPcvCsZ-AyE1R/view?usp=sharing
-url_slides: https://drive.google.com/file/d/1wV4wsn1nWnE81LEFtmB5idOHNzG3n6AV/view?usp=sharing 
+publication_types:
+  - "1"
+authors:
+  - admin
 url_video: https://youtu.be/yJeE9x0_xW4
+featured: true
+date: 2021-08-24T23:31:27.292Z
+url_slides: https://drive.google.com/file/d/1wV4wsn1nWnE81LEFtmB5idOHNzG3n6AV/view?usp=sharing
+title: The Impact of the Johnson-Reed Act on Filipino Labor Market Outcomes
+subtitle: ""
 image:
   filename: ""
   focal_point: ""
   preview_only: false
-date: 2021-08-24T23:31:27.292Z
 ---
