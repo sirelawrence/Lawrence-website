@@ -21,8 +21,7 @@ url_video: https://drive.google.com/file/d/1Csy7-DIjSkoLZY81RLfLXJ2yK9eXA8N2/vie
 featured: true
 date: 2021-08-24T23:26:00.000Z
 url_slides: https://drive.google.com/file/d/14AZjHIX66aeneVXLNUFHCHe67TyGL9Nb/view?usp=sharing
-title: The Effect of Baden-Württemberg's Tuition Fee on International Students
-  Outcomes
+title: The Effect of Baden-Württemberg's Tuition Fee on International Student Outcomes
 subtitle: ""
 image:
   filename: ""
