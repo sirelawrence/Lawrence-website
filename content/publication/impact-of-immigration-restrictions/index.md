@@ -4,7 +4,7 @@ abstract: Immigration restrictions to the US are a rather modern policy. One of
   limited the number of new immigrants per year, especially from Asia. In
   combination with the Emergency Quota Act of 1921, immigration per country was
   capped at 2 percent of the respective population in the 1890 census. In this
-  study, I examine to what extent immigration restrictions affected labor market
+  paper, I examine to what extent immigration restrictions affected labor market
   outcomes of prior migration cohorts. Using decennial census data, I apply a
   difference-in-difference estimation, exploiting the fact that restrictions
   initially did not impact the Philippines, then a US colony. Preliminary
@@ -12,8 +12,9 @@ abstract: Immigration restrictions to the US are a rather modern policy. One of
   Filipinos, highlighting the impact of competition on their economic
   assimilation. Relative to other migrants, labor force participation and
   employment rates of Filipinos increased, while their log income scores
-  declined. Preliminary individual panel data analysis does not support the
-  current findings in the cross-sectional evaluation.
+  declined. This finding corroborates previous studies that emphasize the
+  relevance of substitutability among immigrant cohorts. Preliminary individual
+  panel data analysis supports the findings in the cross-sectional evaluation.
 draft: false
 url_pdf: https://drive.google.com/file/d/1LWxzUbQAY4ksKvH5WB-aPcvCsZ-AyE1R/view?usp=sharing
 publication_types:
