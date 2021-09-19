@@ -1,4 +1,3 @@
-
 ---
 title: "Debt sustainability and the fiscal reaction function: Evidence from MIST countries"
 authors:
