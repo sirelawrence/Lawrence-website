@@ -1,5 +1,5 @@
 ---
-title: "Has information and communication technology improved environmental quality in the OECD- a dynamic panel analysis"
+title: "A reevaluation of human capital accumulation and economic growth in OECD"
 authors:
 - Lawrence Ogbeifun, Shobande Olatunji
 date: "2021-01-28"
