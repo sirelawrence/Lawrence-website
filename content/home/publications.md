@@ -13,7 +13,7 @@ headless: true
 weight: 90
 
 title: Recent Publications
-subtitle: ''
+subtitle: Click on title for abstract
 
 content:
   # Page type to display. E.g. post, talk, publication...
