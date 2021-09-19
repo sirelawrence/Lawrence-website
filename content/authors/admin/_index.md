@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Andreas Vortisch
+title: Lawrence Ogbeifun
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,25 +18,27 @@ bio: My research focuses on the economics of immigration such as policy analysis
 
 # Interests to show in About widget
 interests:
-- Migration
-- Labor
-- Applied Microeconomics
+- Macroeconomics
+- DSGE Models
+- Labor economics
+- Environmental economics
+- Monetary economics
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Economics
     institution: University of Mississippi
-    year: 2022 (anticipated)
+    year: 2023 (anticipated)
   - course: MA in Economics
     institution: University of Mississippi
     year: 2019
   - course: MSc in Economics
-    institution: Universität Potsdam, Germany
-    year: 2017
+    institution: University of Lagos, Nigeria
+    year: 2015
   - course: BSc in Economics
-    institution: Europa-Universität Viadrina, Frankfurt (Oder), Germany
-    year: 2014 
+    institution: University of Benin, Nigeria
+    year: 2012 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,19 +47,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-# - icon: twitter
- # icon_pack: fab
- # link: https://twitter.com/GeorgeCushen
-# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
- # icon_pack: fas
- # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 'mailto:logbeifu@go.olemiss.edu'
+ - icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/sirelawrence
+ - icon: google-scholar  # Alternatively, use `graduation-cap` icon from `fas` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?pli=1&authuser=2&user=qC1Bq6cAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/abvortisch
+  link: https://github.com/sirelawrence
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/abvortisch
+  link: https://www.linkedin.com/in/ogbeifunlawrence
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -75,9 +77,9 @@ highlight_name: false
 
 Welcome to my website!
 
-My name is Andreas Vortisch, I am a PhD candidate in Economics at the University of Mississippi. My research focuses on the economics of migration, especially migration motives, assimilation and migration policies. Samples of my work and my CV can be found below.
+My name is Lawrence Ogbeifun, I am a PhD candidate in Economics at the University of Mississippi. My research interests lie in macroeconomics and span time series analysis, labor, monetary, and enivronmental economics. I am particularly interested in labor market reform in a dynamic and stochastic general equilibrium (DSGE) framework. I strive to answer questions in my research that are both academically interesting and policy relevant.
 
-I am looking forward to applying my acquired knowledge at the next professional level after my graduation in the spring of 2022.
+I am looking forward to applying my acquired knowledge at the next professional level after my graduation in the spring of 2023.
 
 Feel free to get acquainted with me and my work. Also, please do not hesitate to get in touch with me, I am looking forward to hearing from you.
 
