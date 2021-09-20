@@ -14,12 +14,12 @@ header:
 
 Angaben gemäß § 5 TMG
 
-  Andreas Vortisch
+  Lawrence Ogbeifun
   
-  319 Odom
+  207 Odom
   
   38677 University, MS, USA
   
-  E-Mail: abvortis@olemiss.edu
+  E-Mail: logbeifu@go.olemiss.edu
   
   Quelle: https://www.e-recht24.de
