@@ -48,10 +48,10 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:logbeifu@go.olemiss.edu'
- - icon: twitter
+- icon: twitter
   icon_pack: fab
   link: https://twitter.com/sirelawrence
- - icon: google-scholar  # Alternatively, use `graduation-cap` icon from `fas` icon pack
+- icon: google-scholar  # Alternatively, use `graduation-cap` icon from `fas` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?pli=1&authuser=2&user=qC1Bq6cAAAAJ
 - icon: github
