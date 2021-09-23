@@ -22,8 +22,8 @@ twitter: ''
 
 email: logbeifu@go.olemiss.edu
 phone: 662 371 53 32
-address: Odom Hall
-  street: University
+address:
+  street: 'University'
   city: Oxford
   region: MS
   postcode: '38655'
