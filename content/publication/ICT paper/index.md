@@ -20,23 +20,10 @@ publication: "*International Journal of Sustainable Development & World Ecology*
 publication_short: ""
 
 abstract: The debate on the role of information and communication technology (ICT) in environmental sustainability remains a puzzle in empirical research.
-It is unclear whether ICT can help mitigate the after-effects of carbon emissions and, in turn, alleviate the unavoidable consequences of climate change. 
-In this study, we examined the role of ICT in environmental sustainability for a panel of 24 Organisation for Economic Cooperation and Development (OECD) countries.
-We used an annual dataset obtained from the World Bank covering 40 years (1980–2019). Our empirical strategy was based on the standard fixed effects panel and 
-the Arellano-Bover/Blundell-Bond dynamic panel approach. Our empirical findings highlight the importance of using ICT to promote environmental sustainability. 
-Additionally, we identified the mechanisms through which ICT can affect the environment, namely education, transportation, foreign direct investment, regulatory quality, 
-and institutional quality. The present study has critical implications for combatting climate change. Policymakers should pay attention not only to ICT but also to other 
-identified mechanisms that play complementary roles in promoting a sustainable environment.
+It is unclear whether ICT can help mitigate the after-effects of carbon emissions and, in turn, alleviate the unavoidable consequences of climate change.  In this study, we examined the role of ICT in environmental sustainability for a panel of 24 Organisation for Economic Cooperation and Development (OECD) countries. We used an annual dataset obtained from the World Bank covering 40 years (1980–2019). Our empirical strategy was based on the standard fixed effects panel and the Arellano-Bover/Blundell-Bond dynamic panel approach. Our empirical findings highlight the importance of using ICT to promote environmental sustainability. Additionally, we identified the mechanisms through which ICT can affect the environment, namely education, transportation, foreign direct investment, regulatory quality, and institutional quality. The present study has critical implications for combatting climate change. Policymakers should pay attention not only to ICT but also to other identified mechanisms that play complementary roles in promoting a sustainable environment.
 
 # Summary. An optional shortened abstract.
-summary: The debate on the role of information and communication technology (ICT) in environmental sustainability remains a puzzle in empirical research.
-It is unclear whether ICT can help mitigate the after-effects of carbon emissions and, in turn, alleviate the unavoidable consequences of climate change. 
-In this study, we examined the role of ICT in environmental sustainability for a panel of 24 Organisation for Economic Cooperation and Development (OECD) countries.
-We used an annual dataset obtained from the World Bank covering 40 years (1980–2019). Our empirical strategy was based on the standard fixed effects panel and 
-the Arellano-Bover/Blundell-Bond dynamic panel approach. Our empirical findings highlight the importance of using ICT to promote environmental sustainability. 
-Additionally, we identified the mechanisms through which ICT can affect the environment, namely education, transportation, foreign direct investment, regulatory quality, 
-and institutional quality. The present study has critical implications for combatting climate change. Policymakers should pay attention not only to ICT but also to other 
-identified mechanisms that play complementary roles in promoting a sustainable environment.
+summary: The debate on the role of information and communication technology (ICT) in environmental sustainability remains a puzzle in empirical research. It is unclear whether ICT can help mitigate the after-effects of carbon emissions and, in turn, alleviate the unavoidable consequences of climate change. In this study, we examined the role of ICT in environmental sustainability for a panel of 24 Organisation for Economic Cooperation and Development (OECD) countries. We used an annual dataset obtained from the World Bank covering 40 years (1980–2019). Our empirical strategy was based on the standard fixed effects panel and the Arellano-Bover/Blundell-Bond dynamic panel approach. Our empirical findings highlight the importance of using ICT to promote environmental sustainability. Additionally, we identified the mechanisms through which ICT can affect the environment, namely education, transportation, foreign direct investment, regulatory quality, and institutional quality. The present study has critical implications for combatting climate change. Policymakers should pay attention not only to ICT but also to other identified mechanisms that play complementary roles in promoting a sustainable environment.
 tags:
 - CO2 emission
 - ICT
