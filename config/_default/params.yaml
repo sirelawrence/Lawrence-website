@@ -27,12 +27,12 @@ address:
   city: Oxford
   region: MS
   postcode: '38655'
-  country: United States
-  country_code: US
+ # country: 'United States'
+ # country_code: US
  coordinates:
   latitude: '34.3647'
   longitude: '89.5384'
- directions: Enter Odom Building and take the stairs to Office 207 on Floor 2
+ directions: 'Enter Odom Building and take the stairs to Office 207 on Floor 2'
 # office_hours:
   # - 'Monday 10:00 to 13:00'
   # - 'Wednesday 09:00 to 10:00'
