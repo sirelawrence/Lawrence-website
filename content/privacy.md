@@ -12,8 +12,6 @@ header:
   image: ""
 ---
 
-Angaben gemäß § 5 TMG
-
   Lawrence Ogbeifun
   
   207 Odom
