@@ -19,24 +19,10 @@ publication_types: ["2"]
 publication: "*Journal of Public Affairs*"
 publication_short: ""
 
-abstract: Over the last three decades, the renewed interest in key drivers of economic growth in OECD countries has been the central discourse. 
-The argument is whether physical or human capital matters for the economic growth in these countries. This study contributes to the ongoing debate 
-by exploring the connection between human capital accumulation and economic growth between 1986 and 2018 for a panel of 24 OECD countries. The 
-empirical evidence is based on the fixed effect and two-stage lease squares (2SLS). The result indicates that growth does not converge between 
-countries. Further evidence shows that human capital, the savings rate, and the openness of trade play a vital role in OECD countries' economic 
-growth. On the contrary, the findings show that life expectancy and inflation have adverse effects on growth. Thus, the study recommends the urgent
-need for intervention programs tailored toward improving research and development combined with investment in the well-being of the people and the 
-effective utilization of human capital to promote growth while mitigating inflationary pressure
+abstract: Over the last three decades, the renewed interest in key drivers of economic growth in OECD countries has been the central discourse. The argument is whether physical or human capital matters for the economic growth in these countries. This study contributes to the ongoing debate  by exploring the connection between human capital accumulation and economic growth between 1986 and 2018 for a panel of 24 OECD countries. The  empirical evidence is based on the fixed effect and two-stage lease squares (2SLS). The result indicates that growth does not converge between countries. Further evidence shows that human capital, the savings rate, and the openness of trade play a vital role in OECD countries' economic growth. On the contrary, the findings show that life expectancy and inflation have adverse effects on growth. Thus, the study recommends the urgent need for intervention programs tailored toward improving research and development combined with investment in the well-being of the people and the effective utilization of human capital to promote growth while mitigating inflationary pressure
 
 # Summary. An optional shortened abstract.
-summary:  Over the last three decades, the renewed interest in key drivers of economic growth in OECD countries has been the central discourse. 
-The argument is whether physical or human capital matters for the economic growth in these countries. This study contributes to the ongoing debate 
-by exploring the connection between human capital accumulation and economic growth between 1986 and 2018 for a panel of 24 OECD countries. The 
-empirical evidence is based on the fixed effect and two-stage lease squares (2SLS). The result indicates that growth does not converge between 
-countries. Further evidence shows that human capital, the savings rate, and the openness of trade play a vital role in OECD countries' economic 
-growth. On the contrary, the findings show that life expectancy and inflation have adverse effects on growth. Thus, the study recommends the urgent
-need for intervention programs tailored toward improving research and development combined with investment in the well-being of the people and the 
-effective utilization of human capital to promote growth while mitigating inflationary pressure
+summary:  Over the last three decades, the renewed interest in key drivers of economic growth in OECD countries has been the central discourse. The argument is whether physical or human capital matters for the economic growth in these countries. This study contributes to the ongoing debate by exploring the connection between human capital accumulation and economic growth between 1986 and 2018 for a panel of 24 OECD countries. The empirical evidence is based on the fixed effect and two-stage lease squares (2SLS). The result indicates that growth does not converge between countries. Further evidence shows that human capital, the savings rate, and the openness of trade play a vital role in OECD countries' economic growth. On the contrary, the findings show that life expectancy and inflation have adverse effects on growth. Thus, the study recommends the urgent need for intervention programs tailored toward improving research and development combined with investment in the well-being of the people and the effective utilization of human capital to promote growth while mitigating inflationary pressure
 
 tags:
 - Human capital
