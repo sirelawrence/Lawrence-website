@@ -27,7 +27,7 @@ summary:  The use of public debt is not new in financing developmental objective
 
 
 
-featured: false
+featured: true
 
 links:
 - name: DOI
