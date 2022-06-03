@@ -26,5 +26,5 @@ subtitle: ""
 image:
   filename: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 ---
