@@ -25,12 +25,9 @@ content:
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
   # Filter on criteria
-  filters:
-    tag: ''
-    category: ''
-    publication_type: '3'
-    author: ''
-    exclude_featured: false
+  # filters:
+  #  tag: ''
+    
 design:
   # Choose a view for the listings:
   #   1 = List
