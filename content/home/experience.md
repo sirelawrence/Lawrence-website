@@ -30,10 +30,41 @@ experience:
     date_start: '2020-06-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
         
-            * Principles of Macroeconomics Fall '2022'
-            
+            * Principles of Macroeconomics, Fall 2022
+            * Principles of Macroeconomics, Spring 2022
+            * Principles of Macroeconomics, Fall 2021
+            * Principles of Microeconomics, Summer 2021
+       
+        
+  - title: Teaching/Research Assistant
+    company: University of Mississippi
+    company_url: ''
+    company_logo: ''
+    location: ''
+    date_start: '2020-01-15'
+    date_end: '2021-05-15'
+    description: |2-
+    
+          * Undergraduate Level Experimental Economics, Spring 2021
+          * Graduate Level Macroeconomics I, Spring 2020
+          * Graduate Level Econometrics I, Fall 2019
+          * Research Assistant, Fall 2018
+          * Research Assistant, Spring 2018
+          * Tutor, Macroeconomics, Microeconomics, and Statistics, 2018-2020
+
+ - title: Other Teaching
+    company: American Economic Association Summer Program 
+    company_url: ''
+    company_logo: ''
+    location: ''
+    date_start: '2020-06-01'
+    date_end: '2020-06-30'
+    description: |2-
+    
+        * Teaching Fellow, Foundations of Econometrics
+        
+
 
     
        
