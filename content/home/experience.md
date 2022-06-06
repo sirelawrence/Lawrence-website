@@ -23,11 +23,11 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Instructor
-    company: 'University of Mississippi'
+    company: University of Mississippi
     company_url: ''
     company_logo: ''
     location: ''
-    date_start: '2020'
+    date_start: '2020-06-01'
     date_end: ''
     description: |2-
         Responsibilities include:
