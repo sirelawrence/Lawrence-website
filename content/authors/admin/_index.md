@@ -79,9 +79,9 @@ highlight_name: false
 
 Welcome to my website!
 
-My name is Lawrence Ogbeifun, I am a PhD candidate in Economics at the University of Mississippi. My research interests lie in macroeconomics and span time series analysis, labor, monetary, and enivronmental economics. I am particularly interested in labor market reform in a dynamic and stochastic general equilibrium (DSGE) framework. I strive to answer questions in my research that are both academically interesting and policy relevant.
+I am a PhD candidate in Economics at the University of Mississippi. My research interests lie in macroeconomics and span time series analysis, labor, monetary, and enivronmental economics. I am particularly interested in labor market reform in a dynamic and stochastic general equilibrium (DSGE) framework. I strive to answer questions in my research that are both academically interesting and policy relevant.
 
-I am looking forward to applying my acquired knowledge at the next professional level after my graduation in the spring of 2023.
+I am currently on the job market and will be available for interviews at the ASSA 2023 Annual Meeting.
 
 Feel free to get acquainted with me and my work. Also, please do not hesitate to get in touch with me, I am looking forward to hearing from you.
 
