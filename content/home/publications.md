@@ -28,7 +28,7 @@ content:
   filters:
     tag: ''
     category: ''
-    publication_type: ''
+    publication_type: '3'
     author: ''
     exclude_featured: false
 design:
