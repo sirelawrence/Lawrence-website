@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Working Papers
-    url: '#working-paper'
+    url: '#publication_workingpaper'
     weight: 20
   - name: Research
     url: '#featured'
