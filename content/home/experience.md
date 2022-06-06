@@ -30,6 +30,7 @@ experience:
     date_start: ''
     date_end: ''
     description: |2-
+    Responsibilities include:
         * Principles of Macroeconomics, Fall 2022
         * Principles of Macroeconomics, Spring 2022
         * Principles of Macroeconomics, Fall 2021
@@ -44,6 +45,7 @@ experience:
     date_start: ''
     date_end: ''
     description: |2-
+    Responsibilities include:
         * Undergraduate Level Experimental Economics, Spring 2021
         * Graduate Level Macroeconomics I, Spring 2020
         * Graduate Level Econometrics I, Fall 2019
@@ -58,6 +60,7 @@ experience:
     date_start: ''
     date_end: ''
     description: |2-
+    Responsibilities include:
         * Teaching Fellow, American Economic Association Summer Program 2020 (Foundations of Econometrics)
         * Tutor, Macroeconomics, Microeconomics, and Statistics, 2018-2020
 
