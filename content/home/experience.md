@@ -36,7 +36,7 @@ experience:
             * Principles of Macroeconomics, Fall 2021
             * Principles of Microeconomics, Summer 2021
        
-   - title: Teaching and Research Assistant
+  - title: Teaching and Research Assistant
     company: University of Mississippi
     company_url: ''
     company_logo: ''
@@ -50,9 +50,9 @@ experience:
             * Graduate Level Econometrics I, Fall 2019
             * Research Assistant, Fall 2018
             * Research Assistant, Spring 2018
-
-
- - title: Other Teaching
+  
+  
+  - title: Other Teaching
     company: American Economic Association Summer Program 
     company_url: ''
     company_logo: ''
@@ -61,13 +61,7 @@ experience:
     date_end: '2020-06-30'
     description: |2-
     
-            * Teaching Fellow, Foundations of Econometrics
- 
-        
-
-
-    
-       
+            * Teaching Fellow, Foundations of Econometrics 
 
 design:
   columns: '2'
