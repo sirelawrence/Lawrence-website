@@ -4,7 +4,7 @@
 widget: experience
 
 # Status
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Experience
+title: Teaching
 subtitle:
 
 # Date format for experience
@@ -25,28 +25,49 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Instructor/Tutor
+    company: ''
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: ''
+    date_start: ''
     date_end: ''
     description: |2-
-        Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Principles of Macroeconomics, Fall 2022
+        * Principles of Macroeconomics, Spring 2022
+        * Principles of Macroeconomics, Fall 2021
+        * Principles of Microeconomics, Summer 2021
+       
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Teaching/Research Assistant
+    company: ''
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: ''
+    location: ''
+    date_start: ''
+    date_end: ''
+    description: |2-
+
+        * Undergraduate Level Experimental Economics, Spring 2021
+        * Graduate Level Macroeconomics I, Spring 2020
+        * Graduate Level Econometrics I, Fall 2019
+        * Research Assistant, Fall 2018
+        * Research Assistant, Spring 2018
+
+ - title: Other Teaching
+    company: ''
+    company_url: ''
+    company_logo: ''
+    location: ''
+    date_start: ''
+    date_end: ''
+    description: |2-
+
+        * Teaching Fellow, American Economic Association Summer Program 2020 (Foundations of Econometrics)
+        * Tutor, Macroeconomics, Microeconomics, and Statistics, 2018-2020
+
+
 
 design:
   columns: '2'
