@@ -12,7 +12,7 @@ headless: true
 weight: 25
 
 title: Research
-subtitle: ""
+subtitle: "Publications"
 
 content:
   # Page type to display. E.g. post, event, or publication.
