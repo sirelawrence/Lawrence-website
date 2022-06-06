@@ -36,6 +36,4 @@ design:
   view: 4
   
 ---
-{{% callout note %}}
-Quickly discover relevant content by [filtering papers](./publication/).
-{{% /callout %}}
+
