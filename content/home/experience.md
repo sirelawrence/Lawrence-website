@@ -30,8 +30,9 @@ experience:
     date_start: ''
     date_end: ''
     description: |2-
-    Responsibilities include:
-    * Principles of Macroeconomics Fall 2022
+        Responsibilities include:
+        
+            * Principles of Macroeconomics Fall
     
        
 
