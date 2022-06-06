@@ -51,7 +51,6 @@ experience:
           * Graduate Level Econometrics I, Fall 2019
           * Research Assistant, Fall 2018
           * Research Assistant, Spring 2018
-          * Tutor, Macroeconomics, Microeconomics, and Statistics, '2018-2020'
 
 
  - title: Other Teaching
