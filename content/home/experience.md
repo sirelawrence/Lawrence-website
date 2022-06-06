@@ -3,9 +3,6 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
 
-# Status
-active: true
-
 # This file represents a page section.
 headless: true
 
@@ -33,7 +30,6 @@ experience:
     date_start: ''
     date_end: ''
     description: |2-
-        
         * Principles of Macroeconomics, Fall 2022
         * Principles of Macroeconomics, Spring 2022
         * Principles of Macroeconomics, Fall 2021
@@ -48,7 +44,6 @@ experience:
     date_start: ''
     date_end: ''
     description: |2-
-
         * Undergraduate Level Experimental Economics, Spring 2021
         * Graduate Level Macroeconomics I, Spring 2020
         * Graduate Level Econometrics I, Fall 2019
@@ -63,7 +58,6 @@ experience:
     date_start: ''
     date_end: ''
     description: |2-
-
         * Teaching Fellow, American Economic Association Summer Program 2020 (Foundations of Econometrics)
         * Tutor, Macroeconomics, Microeconomics, and Statistics, 2018-2020
 
