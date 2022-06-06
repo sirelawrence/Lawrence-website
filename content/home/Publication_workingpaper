@@ -10,7 +10,7 @@ headless: true
 weight: 90
 
 title: Working Papers
-subtitle: Click on title for abstract
+subtitle:
 
 content:
   # Page type to display. E.g. post, talk, publication...
