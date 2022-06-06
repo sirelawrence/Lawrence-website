@@ -36,7 +36,7 @@ experience:
             * Principles of Macroeconomics, Fall 2021
             * Principles of Microeconomics, Summer 2021
        
-   - title: Teaching/Research Assistant
+   - title: Teaching and Research Assistant
     company: University of Mississippi
     company_url: ''
     company_logo: ''
