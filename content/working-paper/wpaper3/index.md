@@ -29,8 +29,8 @@ summary:
 featured: true
 
 links:
-- name: DOI
-  url: "https://doi.org/10.1186/s43093-020-00037-6"
+#- name: DOI
+  url: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
