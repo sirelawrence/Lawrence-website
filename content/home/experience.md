@@ -42,7 +42,7 @@ experience:
     company_url: ''
     company_logo: ''
     location: ''
-    date_start: '2020-01-15'
+    date_start: '2018-01-15'
     date_end: '2021-05-15'
     description: |2-
     
@@ -51,7 +51,8 @@ experience:
           * Graduate Level Econometrics I, Fall 2019
           * Research Assistant, Fall 2018
           * Research Assistant, Spring 2018
-          * Tutor, Macroeconomics, Microeconomics, and Statistics, 2018-2020
+          * Tutor, Macroeconomics, Microeconomics, and Statistics, '2018-2020'
+
 
  - title: Other Teaching
     company: American Economic Association Summer Program 
