@@ -48,11 +48,11 @@ experience:
     description: |2-
        Responsibilities include:
        
-          * Undergraduate Level Experimental Economics, Spring '2021'
-          * Graduate Level Macroeconomics I, Spring '2020'
-          * Graduate Level Econometrics I, Fall '2019'
-          * Research Assistant, Fall '2018'
-          * Research Assistant, Spring '2018'
+          * Undergraduate Level Experimental Economics Spring '2021'
+          * Graduate Level Macroeconomics I Spring '2020'
+          * Graduate Level Econometrics I Fall '2019'
+          * Research Assistant Fall '2018'
+          * Research Assistant Spring '2018'
 
  - title: Other Teaching
     company: ''
@@ -62,10 +62,10 @@ experience:
     date_start: ''
     date_end: ''
     description: |2-
-    Responsibilities include:
+      Responsibilities include:
     
-        * Teaching Fellow, American Economic Association Summer Program '2020' (Foundations of Econometrics)
-        * Tutor, Macroeconomics, Microeconomics, and Statistics, '2018-2020'
+        * Teaching Fellow American Economic Association Summer Program '2020' (Foundations of Econometrics)
+        * Tutor (Macroeconomics, Microeconomics, and Statistics) '2018-2020'
 
 
     
