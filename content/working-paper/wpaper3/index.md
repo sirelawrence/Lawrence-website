@@ -29,8 +29,8 @@ summary:
 featured: true
 
 links:
-#- name: DOI
-  url: ''
+- name: ''
+  url: ""
 url_code: ''
 url_dataset: ''
 url_poster: ''
