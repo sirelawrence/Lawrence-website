@@ -25,12 +25,13 @@ experience:
   - title: Instructor
     company: ''
     company_url: ''
-    company_logo: org-gc
+    company_logo: ''
     location: ''
     date_start: ''
     date_end: ''
     description: |2-
-    Principles of Macroeconomics Fall 2022
+    Responsibilities include:
+    * Principles of Macroeconomics Fall 2022
     
        
 
