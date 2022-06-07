@@ -2,7 +2,7 @@
 title: "Labor Market Reform and the Business Cycle (Job Market Paper)"
 authors:
 - Lawrence Ogbeifun
-date: ""
+date: 2022-06-07
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -11,7 +11,7 @@ publishDate: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 
 
