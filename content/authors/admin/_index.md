@@ -79,7 +79,7 @@ highlight_name: false
 
 Welcome to my website!
 
-I am a PhD candidate in Economics at the University of Mississippi. My research interests lie in macroeconomics and span time series analysis, labor, monetary, and enivronmental economics. I am particularly interested in labor market reform in a dynamic and stochastic general equilibrium (DSGE) framework. I strive to answer questions in my research that are both academically interesting and policy relevant.
+I am a PhD candidate in Economics at the University of Mississippi. My research interests lie in macroeconomics and span time series analysis, labor, monetary, and environmental economics. I am particularly interested in labor market reform in a dynamic and stochastic general equilibrium (DSGE) framework. I strive to answer questions in my research that are both academically interesting and policy relevant.
 
 I am currently on the job market and will be available for interviews at the ASSA 2023 Annual Meeting.
 
