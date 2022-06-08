@@ -19,10 +19,10 @@ publication_types: ["1"]
 publication: ""
 publication_short: ""
 
-abstract: 
+abstract: How well does labor market reform perform under different market conditions? This paper shows that a reform aimed at improving labor market flexibility has (un)intended consequences on macroeconomic variables. I developed a New Keynesian model with an environment characterized by frictions in the labor market. I investigate the effects of labor market reforms, described by a permanent change in the labor market freedom index (LMFI), a proxy for reform. The main findings are threefold. First, the long-run implication of improving labor market flexibility depends on the policy’s channel. Second, wage rigidity only matters in the short-run as it either lengthens or quickens the transition path. Third, firms tend to respond differently in the short-run when reform is pre-announced.
 
 # Summary. An optional shortened abstract.
-summary:  
+summary:  How well does labor market reform perform under different market conditions? This paper shows that a reform aimed at improving labor market flexibility has (un)intended consequences on macroeconomic variables. I developed a New Keynesian model with an environment characterized by frictions in the labor market. I investigate the effects of labor market reforms, described by a permanent change in the labor market freedom index (LMFI), a proxy for reform. The main findings are threefold. First, the long-run implication of improving labor market flexibility depends on the policy’s channel. Second, wage rigidity only matters in the short-run as it either lengthens or quickens the transition path. Third, firms tend to respond differently in the short-run when reform is pre-announced.
 
 
 
