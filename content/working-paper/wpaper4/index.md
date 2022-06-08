@@ -29,7 +29,7 @@ summary:
 featured: true
 
 links:
- - name:
+- name:''
   url: ""
 url_code: ''
 url_dataset: ''
