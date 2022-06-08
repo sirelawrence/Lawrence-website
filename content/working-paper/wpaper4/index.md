@@ -28,8 +28,8 @@ summary: I re-examined the conclusions from Lucas's (1980) study titled "Two Ill
 
 featured: true
 
-# links:
-# - name: ''
+ links:
+ - name: ''
   url: ""
 url_code: ''
 url_dataset: ''
