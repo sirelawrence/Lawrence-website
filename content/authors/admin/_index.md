@@ -87,3 +87,4 @@ Feel free to get acquainted with me and my work. Also, please do not hesitate to
 
 {{< icon name="download" pack="fas" >}} {{% staticref "uploads/cv.pdf" "newtab" %}}Download my CV{{% /staticref %}}
 {{< icon name="download" pack="fas" >}} {{% staticref "uploads/Rstatement.pdf" "newtab" %}}Research Statement{{% /staticref %}}
+{{< icon name="download" pack="fas" >}} {{% staticref "uploads/Tstatement.pdf" "newtab" %}}Teaching Statement{{% /staticref %}}
