@@ -1,5 +1,5 @@
 ---
-title: "Two Illustrations of the Quantity Theory of Money: A Restatement"
+title: Two Illustrations of the Quantity Theory of Money: A Restatement
 authors:
 - Lawrence Ogbeifun
 date: ""
@@ -19,16 +19,16 @@ publication_types: ["1"]
 publication: ""
 publication_short: ""
 
-abstract: 
+abstract: I re-examined the conclusions from Lucas's (1980) study titled "Two Illustrations of the Quantity Theory of Money" with several changes in mind. First, I considered different measurements of money--Divisia or Fisher-Ideal--to avoid the many measurement problems associated with the Federal Reserve’s published data. Second, I used the 10-year Treasury note to replace a short-term interest rate because the quantity theory is about long-run relationships between nominal magnitudes. Third, I used more recent filtering techniques like the Hamilton and Hodrick-Prescott filter. Finally, I used the GDP deflator for personal consumption expenditures instead of the CPI to eliminate any seasonal effect that may be present in quarterly data. The preliminary results have highlighted that filtered data produce larger estimates than the unfiltered counterpart. Also, Lucas’ proposition can only be established in the early subperiod when I used simple-sum M2 growth. When I used other money measurements in the early subperiod, the filtering technique determined if Lucas’ relationships held.
 
 # Summary. An optional shortened abstract.
-summary:  
+summary: I re-examined the conclusions from Lucas's (1980) study titled "Two Illustrations of the Quantity Theory of Money" with several changes in mind. First, I considered different measurements of money--Divisia or Fisher-Ideal--to avoid the many measurement problems associated with the Federal Reserve’s published data. Second, I used the 10-year Treasury note to replace a short-term interest rate because the quantity theory is about long-run relationships between nominal magnitudes. Third, I used more recent filtering techniques like the Hamilton and Hodrick-Prescott filter. Finally, I used the GDP deflator for personal consumption expenditures instead of the CPI to eliminate any seasonal effect that may be present in quarterly data. The preliminary results have highlighted that filtered data produce larger estimates than the unfiltered counterpart. Also, Lucas’ proposition can only be established in the early subperiod when I used simple-sum M2 growth. When I used other money measurements in the early subperiod, the filtering technique determined if Lucas’ relationships held. 
 
 
 
 featured: true
 
-links:
+# links:
 - name: ''
   url: ""
 url_code: ''
