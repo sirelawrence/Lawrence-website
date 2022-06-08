@@ -1,5 +1,5 @@
 ---
-title: Two Illustrations of the Quantity Theory of Money-- A Restatement
+title: "Two Illustrations of the Quantity Theory of Money: A Restatement"
 authors:
 - Lawrence Ogbeifun
 date: ""
