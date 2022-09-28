@@ -31,6 +31,7 @@ featured: true
 links:
 - name: ''
   url: ""
+url_pdf: https://drive.google.com/drive/u/0/folders/17TkF1brX8y2vmOjY2KXamk3uxYtDO--6
 url_code: ''
 url_dataset: ''
 url_poster: ''
