@@ -19,13 +19,7 @@ publication_types: ["2"]
 publication: "*Journal of Risk and Financial Management*"
 publication_short: ""
 
-abstract: The lack of agreement on climate policies among stock-market investors has raised significant concerns about GHG-emission levels, 
-likely reflected in asset pricing. This study uses annual data sourced from the World Bank from 1980 to 2019 to examine whether stock-market 
-investments increase GHG emissions in Organization for Economic Co-operation and Development (OECD) countries. The study employs the panel-standard 
-fixed effects and the Arellano-Bover and Blundell–Bond dynamic methods and shows that stock-investor confidence is critical for emissions reduction 
-in OECD countries. Additionally, the results highlight the potential mechanism through which the stock market can influence emissions in the 
-OECD countries. We recommend that investors re-evaluate the emissions criteria before selecting long stock portfolios. Additionally, there is 
-a need for policymakers to promote the preservation of environmental quality by carefully redesigning policies for stock-market investments.
+abstract: The lack of agreement on climate policies among stock-market investors has raised significant concerns about GHG-emission levels, likely reflected in asset pricing. This study uses annual data sourced from the World Bank from 1980 to 2019 to examine whether stock-market investments increase GHG emissions in Organization for Economic Co-operation and Development (OECD) countries. The study employs the panel-standard fixed effects and the Arellano-Bover and Blundell–Bond dynamic methods and shows that stock-investor confidence is critical for emissions reduction in OECD countries. Additionally, the results highlight the potential mechanism through which the stock market can influence emissions in the OECD countries. We recommend that investors re-evaluate the emissions criteria before selecting long stock portfolios. Additionally, there is a need for policymakers to promote the preservation of environmental quality by carefully redesigning policies for stock-market investments.
 
 
 
