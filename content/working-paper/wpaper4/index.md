@@ -29,9 +29,8 @@ summary: I re-examined the conclusions from Lucas's (1980) study titled "Two Ill
 featured: true
 
 links:
-- name: ''
-  url: ""
-url_pdf: https://drive.google.com/drive/u/0/folders/17TkF1brX8y2vmOjY2KXamk3uxYtDO--6
+
+url_pdf: https://drive.google.com/file/d/1fYKYGfNPSJPhqiM0a4VUxDE7HegoozAy/view?usp=sharing
 url_code: ''
 url_dataset: ''
 url_poster: ''
