@@ -28,8 +28,7 @@ summary:  How does labor market reform contribute to business cycle dynamics? I 
 featured: true
 
 links:
-- name: ''
-  url: ""
+
 url_pdf: https://drive.google.com/file/d/1EBpJfPU0fSA56xg8KYQfS71lRAn25HZ4/view?usp=sharing
 url_code: '' 
 url_dataset: ''
