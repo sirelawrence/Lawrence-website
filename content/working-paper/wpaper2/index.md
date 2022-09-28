@@ -26,7 +26,7 @@ summary:  How well does labor market reform perform under different market condi
 
 
 
-featured: true
+featured: false
 
 links:
 - name: ''
