@@ -15,7 +15,7 @@ abstract: Immigration restrictions to the US are a rather modern policy. One of
   declined. This finding corroborates previous studies that emphasize the
   relevance of substitutability among immigrant cohorts. Preliminary individual
   panel data analysis supports the findings in the cross-sectional evaluation.
-draft: true
+draft: false
 url_pdf: https://drive.google.com/file/d/1LWxzUbQAY4ksKvH5WB-aPcvCsZ-AyE1R/view?usp=sharing
 publication_types:
   - "1"
