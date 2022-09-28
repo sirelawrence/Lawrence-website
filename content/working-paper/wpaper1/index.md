@@ -11,7 +11,7 @@ publishDate: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 
 
@@ -20,7 +20,7 @@ publication: ""
 publication_short: ""
 
 abstract: How does labor market reform contribute to business cycle dynamics? I develop a real business cycle model in which labor market reform affects economic activity by improving employment matching efficiency and reducing vacancy posting costs. I then use shocks to a labor market freedom index (LMFI) to proxy for labor market reform in the United States and calibrate the model under different shock transmission channels to test the empirical relevance of these mechanisms. The impulse response shows that the positive net effect of the LMFI shock on vacancy rate from the structural model with both channels closely fits U.S. data in the VAR model. On the other hand, using OECD data, vacancy rate impulse response shows that the panel VAR analysis supports the vacancy posting cost channel of shock transmission identified in the structural model.
-
+draft: false
 # Summary. An optional shortened abstract.
 summary:  How does labor market reform contribute to business cycle dynamics? I develop a real business cycle model in which labor market reform affects economic activity by improving employment matching efficiency and reducing vacancy posting costs. I then use shocks to a labor market freedom index (LMFI) to proxy for labor market reform in the United States and calibrate the model under different shock transmission channels to test the empirical relevance of these mechanisms. The impulse response shows that the positive net effect of the LMFI shock on vacancy rate from the structural model with both channels closely fits U.S. data in the VAR model. On the other hand, using OECD data, vacancy rate impulse response shows that the panel VAR analysis supports the vacancy posting cost channel of shock transmission identified in the structural model.
 
