@@ -30,7 +30,7 @@ featured: true
 
 links:
 
-url_pdf: https://drive.google.com/file/d/1fYKYGfNPSJPhqiM0a4VUxDE7HegoozAy/view?usp=sharing
+url_pdf: https://drive.google.com/file/d/1xoGbrMTfKsaVMJ6n5f6VyiOkqZycFiVe/view?usp=sharing
 url_code: ''
 url_dataset: ''
 url_poster: ''
