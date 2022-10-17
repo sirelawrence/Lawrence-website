@@ -32,7 +32,7 @@ featured: true
 links:
 - name: DOI
   url: "https://doi.org/10.1186/s43093-020-00037-6"
-url_pdf: 
+url_pdf: https://drive.google.com/file/d/1eWu_-Avd5gGwLlvCcY6J-SyKUndyIdXB/view?usp=sharing
 url_code: ''
 url_dataset: ''
 url_poster: ''
