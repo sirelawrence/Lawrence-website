@@ -28,7 +28,7 @@ featured: true
 links:
 - name: DOI
   url: "https://doi.org/10.3390/jrfm15020070"
-url_pdf: 
+url_pdf: https://drive.google.com/file/d/1Scp24-oWEwRA5JhRkF7fA5l-oaRPBdiD/view?usp=sharing
 url_code: ''
 url_dataset: ''
 url_poster: ''
