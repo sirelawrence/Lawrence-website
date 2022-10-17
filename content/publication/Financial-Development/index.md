@@ -37,6 +37,7 @@ featured: true
 links:
 - name: DOI
   url: "https://doi.org/10.1080/13504509.2021.1934179"
+url_pdf: https://drive.google.com/file/d/1ldG_wMVgGykfKkO3Z7WrkFcFqroc7HSh/view?usp=sharing
 url_code: ''
 url_dataset: ''
 url_poster: ''
