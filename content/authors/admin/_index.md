@@ -86,6 +86,6 @@ I am currently on the job market and will be available for interviews at the ASS
 
 Feel free to get acquainted with me and my work. Also, please do not hesitate to get in touch with me, I am looking forward to hearing from you.
 
-{{< icon name="download" pack="fas" >}} {{% staticref "uploads/Resume.pdf" "newtab" %}}Résumé{{% /staticref %}}
+{{< icon name="download" pack="fas" >}} {{% staticref "https://drive.google.com/file/d/1hW2RUlOXsLZsq9TDibcuXQtz003mL50z/view?usp=sharing" "newtab" %}}Résumé{{% /staticref %}}
 {{< icon name="download" pack="fas" >}} {{% staticref "uploads/Rstatement.pdf" "newtab" %}}Research Statement{{% /staticref %}}
 {{< icon name="download" pack="fas" >}} {{% staticref "uploads/Tstatement.pdf" "newtab" %}}Teaching Statement{{% /staticref %}}
