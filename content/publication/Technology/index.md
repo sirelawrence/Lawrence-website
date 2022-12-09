@@ -3,7 +3,7 @@ title: "Pooling cross-sectional and time series data for estimating causality be
 
 authors:
 - Shobande Olatunji, Lawrence Ogbeifun
-date: "2023-02-01"
+date: "2022-12-08"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
