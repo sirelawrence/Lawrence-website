@@ -32,7 +32,7 @@ content:
 
   email: ogbeifunlawrence@yahoo.com
   phone: 662 371 53 32
-   address:
+  address:
     street: 'Department of Economics<br />Hartwick College'
     city: Oneonta
     region: NY
