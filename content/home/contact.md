@@ -29,7 +29,6 @@ content:
       captcha: true
 
 # Contact (edit or remove options as required)
-
   email: ogbeifunlawrence@yahoo.com
   phone: 662 371 53 32
   address:
