@@ -14,7 +14,7 @@ organizations:
   url: https://www.hartwick.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on the economics of immigration such as policy analysis and determinants of integration and assimilation.
+bio: My research focuses on macro-labor economics.
 
 # Interests to show in About widget
 interests:
@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: University of Mississippi
-    year: 2023 (anticipated)
+    year: 2023 
   - course: MA in Economics
     institution: University of Mississippi
     year: 2019
@@ -47,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:logbeifu@go.olemiss.edu'
+  link: 'mailto:ogbeifunlawrence@yahoo.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/sirelawrence
