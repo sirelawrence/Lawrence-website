@@ -27,7 +27,27 @@ content:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: true
-  
+
+# Contact (edit or remove options as required)
+
+  email: ogbeifunlawrence@yahoo.com
+  phone: 662 371 53 32
+   address:
+    street: 'Department of Economics<br />Hartwick College'
+    city: Oneonta
+    region: NY
+    postcode: '13820'
+    country: 'United States'
+    country_code: US
+   coordinates:
+    latitude: '42.4587'
+    longitude: '75.0718'
+   directions: 'Enter Golisano Building and take the stairs to Office 248 on Floor 2'
+# office_hours:
+  # - 'Monday 10:00 to 13:00'
+  # - 'Wednesday 09:00 to 10:00'
+ appointment_url: 'https://lawrenceogbeifun.simplybook.me/v2/#'
+
 design:
   columns: '2'
 ---
