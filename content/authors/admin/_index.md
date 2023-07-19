@@ -6,7 +6,7 @@ title: Lawrence Ogbeifun
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor
+role: Assistant Professor of Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.hartwick.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on macro-labor economics.
+bio: Lawrence Ogbeifun is an Assistant Professor of Economics at Hartwick College.
 
 # Interests to show in About widget
 interests:
@@ -80,7 +80,7 @@ highlight_name: false
 
 Welcome to my website!
 
-My name is Lawrence Ogbeifun, I am an Assistant Professor at Hartwick College. My research interests lie in macroeconomics and span time series analysis, labor, monetary, and environmental economics. I am particularly interested in labor market reform in a dynamic and stochastic general equilibrium (DSGE) framework. I strive to answer questions in my research that are both academically interesting and policy-relevant.
+My name is Lawrence Ogbeifun, I am an Assistant Professor of Economics at Hartwick College. My research interests lie in macroeconomics and span time series analysis, labor, monetary, and environmental economics. I am particularly interested in labor market reform in a dynamic and stochastic general equilibrium (DSGE) framework. I strive to answer questions in my research that are both academically interesting and policy-relevant.
 
 Feel free to get acquainted with me and my work. Also, please do not hesitate to get in touch with me, I am looking forward to hearing from you.
 
