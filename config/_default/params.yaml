@@ -29,7 +29,7 @@ address:
   postcode: '13820'
   country: 'United States'
   country_code: US
- coordinates:
+coordinates:
   latitude: '42.4587'
   longitude: '75.0718'
  directions: 'Enter Golisano Building and take the stairs to Office 248 on Floor 2'
