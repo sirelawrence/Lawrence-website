@@ -6,12 +6,12 @@ title: Lawrence Ogbeifun
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Mississippi
-  url: https://www.olemiss.edu/
+- name: Hartwick College
+  url: https://www.hartwick.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on the economics of immigration such as policy analysis and determinants of integration and assimilation.
@@ -80,12 +80,10 @@ highlight_name: false
 
 Welcome to my website!
 
-I am a PhD candidate in Economics at the University of Mississippi. My research interests lie in macroeconomics and span time series analysis, labor, monetary, and environmental economics. I am particularly interested in labor market reform in a dynamic and stochastic general equilibrium (DSGE) framework. I strive to answer questions in my research that are both academically interesting and policy relevant.
-
-I am currently on the job market and will be available for interviews at the ASSA 2023 Annual Meeting.
+My name is Lawrence Ogbeifun, I am an Assistant Professor at Hartwick College. My research interests lie in macroeconomics and span time series analysis, labor, monetary, and environmental economics. I am particularly interested in labor market reform in a dynamic and stochastic general equilibrium (DSGE) framework. I strive to answer questions in my research that are both academically interesting and policy-relevant.
 
 Feel free to get acquainted with me and my work. Also, please do not hesitate to get in touch with me, I am looking forward to hearing from you.
 
 {{< icon name="download" pack="fas" >}} {{% staticref "https://drive.google.com/file/d/1hW2RUlOXsLZsq9TDibcuXQtz003mL50z/view?usp=sharing" "newtab" %}}Résumé{{% /staticref %}}
-{{< icon name="download" pack="fas" >}} {{% staticref "uploads/Rstatement.pdf" "newtab" %}}Research Statement{{% /staticref %}}
-{{< icon name="download" pack="fas" >}} {{% staticref "uploads/Tstatement.pdf" "newtab" %}}Teaching Statement{{% /staticref %}}
+{{< icon name="download" pack="fas" >}} {{% staticref "https://drive.google.com/file/d/1eitMT4xvlPoBQRWn_0-Vb3hp_ZTyyWiU/view?usp=sharing" "newtab" %}}Research Statement{{% /staticref %}}
+{{< icon name="download" pack="fas" >}} {{% staticref "https://drive.google.com/file/d/1MnpbFdaaumX-3CTX1lmSwZQ_h5xwvldL/view?usp=sharing" "newtab" %}}Teaching Statement{{% /staticref %}}
