@@ -28,9 +28,9 @@ publication_types: ['0']
 publication: ''
 publication_short: ''
 
-abstract: The content in this lecture notes are based on Lecture slides from Mishkin's: The Economics of Money, Banking, and Financial Markets.
+abstract: The content in this lecture notes are based on Lecture slides from Mishkin's `The Economics of Money, Banking, and Financial Markets.`
 # Summary. An optional shortened abstract.
-summary: The content in this lecture notes are based on Lecture slides from Mishkin's: The Economics of Money, Banking, and Financial Markets.
+summary: The content in this lecture notes are based on Lecture slides from Mishkin's `The Economics of Money, Banking, and Financial Markets.`
 
 
 # Display this page in the Featured widget?
