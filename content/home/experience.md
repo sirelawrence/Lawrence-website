@@ -25,13 +25,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Assistant Professor of Economics
+    company: Hartwick College
+    company_url: ''
+    company_logo: ''
+    location: 'Oneonta, New York'
+    date_start: '2023-08-27'
+    date_end: ''
+    description: |2-
+        
+            * Principles of Macroeconomics, Fall 2023
+            * Money and Banking, Fall 2023
+            * Energy Decisions, Markets, and Policy, J-Term 2024
+            * Principles of Macroeconomics, Spring 2024
+            * Public Finance, Spring 2024
+
+    
   - title: Instructor
     company: University of Mississippi
     company_url: ''
     company_logo: ''
     location: ''
     date_start: '2020-06-01'
-    date_end: ''
+    date_end: '2023-06-28'
     description: |2-
         
             * Principles of Macroeconomics, Fall 2022
