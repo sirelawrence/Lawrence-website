@@ -1,7 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: lecturenotes
+widget: pages
 
 # This file represents a page section.
 headless: true
@@ -35,3 +35,6 @@ design:
   view: citation
   columns: '2'
 ---
+{{% callout note %}}
+Quickly discover relevant content by [filtering lecturenotes](./lecturenotes/).
+{{% /callout %}}
