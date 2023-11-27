@@ -23,7 +23,7 @@ main:
   # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
     url: https://drive.google.com/file/d/1vZty4N0T10JlCVbRn2POs2aomGS7lUUJ/view?usp=sharing
-    weight: 60
+    weight: 5
   # - name: Publications
   #  url: '#featured'
   #  weight: 50
