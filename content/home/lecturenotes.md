@@ -36,5 +36,5 @@ design:
   columns: '2'
 ---
 {{% callout note %}}
-Quickly discover relevant content by [filtering lecturenotes](./lecturenotes/).
+You can find slies for my lecture notes [here](./lecturenotes/).
 {{% /callout %}}
