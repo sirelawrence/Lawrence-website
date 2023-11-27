@@ -19,7 +19,7 @@ content:
       - lecturenotes
     tag: ''
     category: ''
-    publication_type: '0'
+    publication_type: '1'
     author: ''
     exclude_featured: false
     exclude_future: false
