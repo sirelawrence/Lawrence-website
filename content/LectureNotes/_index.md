@@ -1,6 +1,6 @@
 ---
 title: Lecture Notes
-cms_exclude: true
+cms_exclude: false
 active: true
 
 # View.
