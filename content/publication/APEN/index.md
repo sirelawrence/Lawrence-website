@@ -30,7 +30,7 @@ featured: true
 links:
 - name: DOI
   url: "https://doi.org/10.1016/j.apenergy.2023.122461"
-url_pdf: ''
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
