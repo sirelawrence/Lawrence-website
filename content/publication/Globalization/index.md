@@ -3,7 +3,7 @@ title: "Globalization, technology and global health"
 
 authors:
 - Shobande Olatunji, Lawrence Ogbeifun, Asongu Simplice
-date: "2024-03-03"
+date: "2024-02-01"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
