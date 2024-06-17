@@ -18,7 +18,6 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Science and Technology Policy Management*"
 publication_short: ""
-
 abstract: This study aims to explore whether globalization and technology are harmful to health using a global panel data set of 52 countries over the period 1990-2019. The study focused on four continents: Africa, the Americas, Asia and Oceania and Europe. The authors used four advanced econometric methodologies, which include the standard panel fixed effect (FE), Arellano–Bover and Blundell-Bond dynamic panel, Hausman-Taylor specification and two-stage least squares (FE-2SLS) and Lewbel-2SLS approaches. The empirical evidence highlights the significance of globalization and technology in promoting global health. The findings suggest that globalization has various impacts on global health indicators and that technology is useful in tracking, monitoring and promoting global health. In addition, the empirical evidence indicates that a truly health-centred process of globalization and technological innovation can only be realized by ensuring that the interests of countries and vulnerable populations to health risks are adequately considered in international decision-making regarding global economic integration.
 
 # Summary. An optional shortened abstract.
