@@ -35,7 +35,7 @@ education:
     year: 2019
   - course: MSc in Economics
     institution: University of Lagos, Nigeria
-    year: 2015
+    year: 2016
   - course: BSc in Economics
     institution: University of Benin, Nigeria
     year: 2012 
