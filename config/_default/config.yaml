@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 'ogbeifunlawrence.com ' # Website name
+title: 'Lawrence Ogbeifun' # Website name
 baseurl: 'ogbeifunlawrence.com' # Website URL
 copyright: '© {year} Lawrence Ogbeifun' # Footer text, e.g. '© {year} Me'
 
