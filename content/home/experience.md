@@ -35,10 +35,9 @@ experience:
     description: |2-
         
             * Principles of Macroeconomics [12 Sections]
-            * Money and Banking, Fall 2023
+            * Money and Banking [2 Sections]
             * Energy Decisions, Markets, and Policy, J-Term 2024
-            * Principles of Macroeconomics, Spring 2024
-            * Public Finance, Spring 2024
+            * Public Finance [1 Sections]
 
     
   - title: Instructor
@@ -50,10 +49,8 @@ experience:
     date_end: '2023-06-28'
     description: |2-
         
-            * Principles of Macroeconomics, Fall 2022
-            * Principles of Macroeconomics, Spring 2022
-            * Principles of Macroeconomics, Fall 2021
-            * Principles of Microeconomics, Summer 2021
+            * Principles of Macroeconomics [3 Sections]
+            * Principles of Microeconomics [1 Sections]
        
   - title: Teaching and Research Assistant
     company: University of Mississippi
