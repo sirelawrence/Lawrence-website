@@ -11,7 +11,7 @@ role: Assistant Professor of Economics
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Hartwick College
-  url: https://www.hartwick.edu/
+  url: https://www.hartwick.edu/people/lawrence-ogbeifun/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Lawrence Ogbeifun is an Assistant Professor of Economics at Hartwick College.
