@@ -34,7 +34,7 @@ experience:
     date_end: ''
     description: |2-
         
-            * Principles of Macroeconomics, Fall 2023
+            * Principles of Macroeconomics [12 Sections]
             * Money and Banking, Fall 2023
             * Energy Decisions, Markets, and Policy, J-Term 2024
             * Principles of Macroeconomics, Spring 2024
