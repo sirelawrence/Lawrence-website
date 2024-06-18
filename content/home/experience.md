@@ -37,7 +37,7 @@ experience:
             * Principles of Macroeconomics [12 Sections]
             * Money and Banking [2 Sections]
             * Energy Decisions, Markets, and Policy, J-Term 2024
-            * Public Finance [1 Sections]
+            * Public Finance [1 Section]
 
     
   - title: Instructor
@@ -50,7 +50,7 @@ experience:
     description: |2-
         
             * Principles of Macroeconomics [3 Sections]
-            * Principles of Microeconomics [1 Sections]
+            * Principles of Microeconomics [1 Section]
        
   - title: Teaching and Research Assistant
     company: University of Mississippi
