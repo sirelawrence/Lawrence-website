@@ -3,7 +3,7 @@ title: "Exploring the Criticality of Natural Resources Management and Technologi
 
 authors:
 - Shobande Olatunji, Lawrence Ogbeifun
-date: "2024-04-09"
+date: "2024-02-02"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
