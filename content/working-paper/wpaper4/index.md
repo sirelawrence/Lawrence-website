@@ -9,20 +9,14 @@ authors:
 publication_types: ["3"]
 
 # Dates (omit any you don't need)
-date: 2025-09-01
+date: 2025-09-16
 
 
 abstract: >
-  Over four decades ago, Robert Lucas demonstrated the implications of the Quantity Theory of Money (QTM) through empirical
-  evidence linking inflation rates, nominal interest rates, and the growth rates of monetary aggregates. This study builds on
-  Lucas’ foundational work by extending the analysis over a longer period, using advanced monetary measurement and filtering
-  techniques, and substituting short-term interest rates with a long-term interest rate measure. The findings reaffirm the
-  importance of money supply measures and filtering techniques when evaluating Lucas’ predictions. Notably, irrespective of the
-  sample period considered, the results consistently show that Divisia M2 and MZM, when analyzed using the Hamilton filtering
-  technique, closely align with the QTM.
+Over four decades ago, Robert Lucas demonstrated the implications of the Quantity Theory of Money (QTM) through empirical evidence linking inflation rates, nominal interest rates, and the growth rates of monetary aggregates. This study builds on Lucas’ foundational work by extending the analysis over a longer period, using advanced monetary measurement and filtering techniques, and substituting short-term interest rates with a long-term interest rate measure. The findings reaffirm the importance of money supply measures and filtering techniques when evaluating Lucas’ predictions. Notably, irrespective of the sample period considered, the results consistently show that Divisia M2 and MZM, when analyzed using the Hamilton filtering technique, closely align with the QTM.
 
 summary: >
-  Extends Lucas (1980s) QTM evidence with Divisia aggregates, Hamilton filters, and long-term rates; Divisia M2/MZM align best.
+Over four decades ago, Robert Lucas demonstrated the implications of the Quantity Theory of Money (QTM) through empirical evidence linking inflation rates, nominal interest rates, and the growth rates of monetary aggregates. This study builds on Lucas’ foundational work by extending the analysis over a longer period, using advanced monetary measurement and filtering techniques, and substituting short-term interest rates with a long-term interest rate measure. The findings reaffirm the importance of money supply measures and filtering techniques when evaluating Lucas’ predictions. Notably, irrespective of the sample period considered, the results consistently show that Divisia M2 and MZM, when analyzed using the Hamilton filtering technique, closely align with the QTM.
 
 featured: true
 
