@@ -1,6 +1,5 @@
 ---
-title: "Revisiting the Quantity Theory of Money: Measurement and
-Filtering Perspectives"
+title: "Revisiting the Quantity Theory of Money: Measurement and Filtering Perspectives"
 
 authors:
 - Lawrence Ogbeifun
