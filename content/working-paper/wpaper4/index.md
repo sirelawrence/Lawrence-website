@@ -1,5 +1,7 @@
 ---
-title: "Two Illustrations of the Quantity Theory of Money: A Restatement"
+title: "Revisiting the Quantity Theory of Money: Measurement and
+Filtering Perspectives"
+
 authors:
 - Lawrence Ogbeifun
 date: ""
@@ -19,18 +21,17 @@ publication_types: ["1"]
 publication: ""
 publication_short: ""
 
-abstract: I re-examined the conclusions from Lucas's (1980) study titled "Two Illustrations of the Quantity Theory of Money" with several changes in mind. First, I considered different measurements of money (Divisia or Fisher-Ideal) to avoid the many measurement problems associated with the Federal Reserve’s published data. Second, I used the 10-year Treasury note to replace a short-term interest rate because the quantity theory is about long-run relationships between nominal magnitudes. Third, I used more recent filtering techniques like the Hamilton and Hodrick-Prescott filter. Finally, I used the GDP deflator for personal consumption expenditures instead of the CPI to eliminate any seasonal effect that may be present in quarterly data. The preliminary results have highlighted that filtered data produce larger estimates than the unfiltered counterpart. Also, Lucas’ proposition can only be established in the early subperiod when I used simple-sum M2 growth. When I used other money measurements in the early subperiod, the filtering technique determined if Lucas’ relationships held.
+abstract: Over four decades ago, Robert Lucas demonstrated the implications of the Quantity Theory of Money (QTM) through empirical evidence linking inflation rates, nominal interest rates, and the growth rates of monetary aggregates. This study builds on Lucas’ foundational work by extending the analysis over a longer period, using advanced monetary measurement and filtering techniques, and substituting short-term interest rates with a long-term interest rate measure. The findings reaﬃrm the importance of money supply measures and filtering techniques when evaluating Lucas’ predictions. Notably, irrespective of the sample period considered, the results consistently show that Divisia M2 and MZM, when analyzed using the Hamilton filtering technique, closely align with the QTM.
 
 # Summary. An optional shortened abstract.
-summary: I re-examined the conclusions from Lucas's (1980) study titled "Two Illustrations of the Quantity Theory of Money" with several changes in mind. First, I considered different measurements of money (Divisia or Fisher-Ideal) to avoid the many measurement problems associated with the Federal Reserve’s published data. Second, I used the 10-year Treasury note to replace a short-term interest rate because the quantity theory is about long-run relationships between nominal magnitudes. Third, I used more recent filtering techniques like the Hamilton and Hodrick-Prescott filter. Finally, I used the GDP deflator for personal consumption expenditures instead of the CPI to eliminate any seasonal effect that may be present in quarterly data. The preliminary results have highlighted that filtered data produce larger estimates than the unfiltered counterpart. Also, Lucas’ proposition can only be established in the early subperiod when I used simple-sum M2 growth. When I used other money measurements in the early subperiod, the filtering technique determined if Lucas’ relationships held.
-
+summary: Over four decades ago, Robert Lucas demonstrated the implications of the Quantity Theory of Money (QTM) through empirical evidence linking inflation rates, nominal interest rates, and the growth rates of monetary aggregates. This study builds on Lucas’ foundational work by extending the analysis over a longer period, using advanced monetary measurement and filtering techniques, and substituting short-term interest rates with a long-term interest rate measure. The findings reaﬃrm the importance of money supply measures and filtering techniques when evaluating Lucas’ predictions. Notably, irrespective of the sample period considered, the results consistently show that Divisia M2 and MZM, when analyzed using the Hamilton filtering technique, closely align with the QTM.
 
 
 featured: true
 
 links:
 
-url_pdf: https://drive.google.com/file/d/1xoGbrMTfKsaVMJ6n5f6VyiOkqZycFiVe/view?usp=sharing
+url_pdf: https://drive.google.com/file/d/1cd_9-JjrEHnAAA083Kp32uheZiYNnIpX/view?usp=drive_link
 url_code: ''
 url_dataset: ''
 url_poster: ''
