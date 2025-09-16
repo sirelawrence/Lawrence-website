@@ -69,7 +69,7 @@ social:
 - icon: cv
   icon_pack: ai
   # link: uploads/cv.pdf
-  link: https://drive.google.com/file/d/1vZty4N0T10JlCVbRn2POs2aomGS7lUUJ/view?usp=sharing
+  link: https://drive.google.com/file/d/1FV3jXMf0TVh_OG5naMkKIlEqnamwzgsU/view?usp=drive_link
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -85,6 +85,6 @@ My name is Lawrence Ogbeifun, I am an Assistant Professor of Economics at Hartwi
 Feel free to *[contact](#contact)* me directly
 
 
-{{< icon name="download" pack="fas" >}} {{% staticref "https://drive.google.com/file/d/1hW2RUlOXsLZsq9TDibcuXQtz003mL50z/view?usp=sharing" "newtab" %}}Résumé{{% /staticref %}}
-{{< icon name="download" pack="fas" >}} {{% staticref "https://drive.google.com/file/d/1eitMT4xvlPoBQRWn_0-Vb3hp_ZTyyWiU/view?usp=sharing" "newtab" %}}Research Statement{{% /staticref %}}
-{{< icon name="download" pack="fas" >}} {{% staticref "https://drive.google.com/file/d/1MnpbFdaaumX-3CTX1lmSwZQ_h5xwvldL/view?usp=sharing" "newtab" %}}Teaching Statement{{% /staticref %}}
+# {{< icon name="download" pack="fas" >}} {{% staticref "https://drive.google.com/file/d/1hW2RUlOXsLZsq9TDibcuXQtz003mL50z/view?usp=sharing" "newtab" %}}Résumé{{% /staticref %}}
+{{< icon name="download" pack="fas" >}} {{% staticref "https://drive.google.com/file/d/1uCbUkDs_9bakNhSZsPw4hFBl0CR_j7fs/view?usp=drive_link" "newtab" %}}Research Statement{{% /staticref %}}
+{{< icon name="download" pack="fas" >}} {{% staticref "https://drive.google.com/file/d/1DgM7VhVGq2xz4-pR6YGhTMhSTDoxUt_F/view?usp=drive_link" "newtab" %}}Teaching Statement{{% /staticref %}}
