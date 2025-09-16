@@ -2,7 +2,8 @@
 title: Labor Market Reform in a Business Cycle Framework (Job Market Paper)
 
 authors:
-- admin
+- Lawrence Ogbeifun
+  
 date: 2025-09-16
 
 # Schedule page publish date (NOT publication's date).
@@ -20,7 +21,7 @@ publication_types: ["1"]
 publication: ""
 publication_short: ""
 
-abstract: How does labor market reform contribute to business cycle dynamics? I develop a real business cycle model in which labor market reform aﬀects economic activity both by improving employment matching eﬃciency and by reducing vacancy posting costs. I then use shocks to a labor market freedom index (LMFI) to proxy for labor market reform in the United States and calibrate the model assuming the labor market reform has two diﬀerent components-improved matching eﬃciency and reduced vacancy posting cost—to test the empirical relevance of these two mechanisms. The results from the structural model show that, depending on the mechanism, a labor market reform can produce either a net positive or net negative impact on the vacancy rate. The impulse responses in a VAR framework for U.S. data and OECD data generate a positive net eﬀect of the LMFI shock on the vacancy rate, similar to the result obtained from the structural model with the vacancy posting cost channel.
+abstract: How does labor market reform contribute to business cycle dynamics? I develop a real business cycle model in which labor market reform aﬀects economic activity both by improving employment matching eﬃciency and by reducing vacancy posting costs. I then use shocks to a labor market freedom index (LMFI) to proxy for labor market reform in the United States and calibrate the model assuming the labor market reform has two diﬀerent components-improved matching eﬃciency and reduced vacancy posting cost-to test the empirical relevance of these two mechanisms. The results from the structural model show that, depending on the mechanism, a labor market reform can produce either a net positive or net negative impact on the vacancy rate. The impulse responses in a VAR framework for U.S. data and OECD data generate a positive net eﬀect of the LMFI shock on the vacancy rate, similar to the result obtained from the structural model with the vacancy posting cost channel.
 
 draft: false
 
