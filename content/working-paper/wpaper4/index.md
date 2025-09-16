@@ -10,7 +10,7 @@ publication_types: ["3"]
 
 # Dates (omit any you don't need)
 date: 2025-09-01
-publishDate: 2025-09-16T00:00:00-04:00
+
 
 abstract: >
   Over four decades ago, Robert Lucas demonstrated the implications of the Quantity Theory of Money (QTM) through empirical
