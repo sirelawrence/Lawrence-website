@@ -1,4 +1,3 @@
-
 ---
 title: "Exploring the implications of FOREX restriction policies: Theory and new evidence"
 
