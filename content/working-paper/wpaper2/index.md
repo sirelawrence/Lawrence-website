@@ -3,7 +3,7 @@ title: "Labor Market Reform and the Steady State Dynamcis"
 authors:
 - Lawrence Ogbeifun
 
-date: 2025-09-16
+date: 2025-09-20
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -12,7 +12,7 @@ publishDate: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 
 
@@ -27,7 +27,7 @@ summary:  How well does labor market reform perform under different market condi
 
 
 
-featured: false
+featured: true
 
 links:
 
