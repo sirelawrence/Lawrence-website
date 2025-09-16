@@ -34,10 +34,13 @@ experience:
     date_end: ''
     description: |2-
         
-            * Principles of Macroeconomics [12 Sections]
+            * Principles of Macroeconomics [8 Sections]
+            * Macroeconomic Theory [1 Section]
+            * Monetary Economics [1 Section]
             * Money and Banking [2 Sections]
             * Energy Decisions, Markets, and Policy, J-Term 2024
             * Public Finance [1 Section]
+            * Corporate Finance [1 Section]
 
     
   - title: Instructor
