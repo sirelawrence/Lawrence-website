@@ -2,7 +2,8 @@
 title: "Labor Market Reform and the Steady State Dynamcis"
 authors:
 - Lawrence Ogbeifun
-date: ""
+
+date: 2025-09-16
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
