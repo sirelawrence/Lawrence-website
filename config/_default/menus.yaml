@@ -22,7 +22,7 @@ main:
   # Link to a PDF of your resume/CV from the menu.
   # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
-    url: https://drive.google.com/file/d/1vZty4N0T10JlCVbRn2POs2aomGS7lUUJ/view?usp=sharing
+    url: https://drive.google.com/file/d/1FV3jXMf0TVh_OG5naMkKIlEqnamwzgsU/view?usp=sharing
     weight: 5
   # - name: Publications
   #  url: '#featured'
