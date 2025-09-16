@@ -1,5 +1,6 @@
 ---
 title: Labor Market Reform in a Business Cycle Framework (Job Market Paper)
+
 authors:
 - admin
 date: 2025-09-16
