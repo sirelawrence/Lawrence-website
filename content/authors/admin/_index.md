@@ -85,6 +85,5 @@ My name is Lawrence Ogbeifun, I am an Assistant Professor of Economics at Hartwi
 Feel free to *[contact](#contact)* me directly
 
 
-# {{< icon name="download" pack="fas" >}} {{% staticref "https://drive.google.com/file/d/1hW2RUlOXsLZsq9TDibcuXQtz003mL50z/view?usp=sharing" # "newtab" %}}Résumé{{% /staticref %}}
 {{< icon name="download" pack="fas" >}} {{% staticref "https://drive.google.com/file/d/1uCbUkDs_9bakNhSZsPw4hFBl0CR_j7fs/view?usp=drive_link" "newtab" %}}Research Statement{{% /staticref %}}
 {{< icon name="download" pack="fas" >}} {{% staticref "https://drive.google.com/file/d/1DgM7VhVGq2xz4-pR6YGhTMhSTDoxUt_F/view?usp=drive_link" "newtab" %}}Teaching Statement{{% /staticref %}}
