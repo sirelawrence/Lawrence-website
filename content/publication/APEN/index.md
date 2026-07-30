@@ -4,6 +4,8 @@ title: "Extricating the impacts of emissions trading system and energy transitio
 authors:
 - Shobande Olatunji, Lawrence Ogbeifun, Aviral Kumar Tiwari
 date: "2023-02-02"
+tags:
+  - Selected-Env
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
