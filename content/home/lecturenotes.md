@@ -36,5 +36,5 @@ design:
   columns: '2'
 ---
 {{% callout note %}}
-You can find slies for my lecture notes [here](./lecturenotes/).
+You can find slides for my lecture notes [here](./lecturenotes/).
 {{% /callout %}}
