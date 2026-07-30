@@ -78,9 +78,9 @@ email: ""
 highlight_name: false
 ---
 
-Welcome to my website!
+Welcome!
 
-My name is Lawrence Ogbeifun, I am an Assistant Professor of Economics at Hartwick College. My research interests lie in macroeconomics and span time series analysis, labor, monetary, and environmental economics. I am particularly interested in labor market reform in a dynamic and stochastic general equilibrium (DSGE) framework. I strive to answer questions in my research that are both academically interesting and policy-relevant.
+I'm Lawrence Ogbeifun, an Assistant Professor of Economics at Hartwick College. My research is in empirical macroeconomics, with a focus on monetary economics and applied time series analysis. My broader work also spans labor and environmental economics, including labor market dynamics in general equilibrium settings. Across these areas, I aim to answer questions that are both academically interesting and policy-relevant. Feel free to explore my research, publications, and teaching — and reach out if you'd like to connect.
 
 Feel free to *[contact](#contact)* me directly
 
