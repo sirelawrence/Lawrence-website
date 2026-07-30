@@ -1,9 +1,9 @@
 ---
-title: "Labor Market Reform and the Steady State Dynamcis"
+title: "Capital Misallocation at the Intersection of Race and Gender: Evidence from Small Businesses (Job Market Paper)"
 authors:
-- Lawrence Ogbeifun
+- Lawrence Ogbeifun, Carlena Ficano
 
-date: 2025-09-20
+date: 2026-07-26
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -20,10 +20,10 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: How well does labor market reform perform under different market conditions? This paper shows that a reform aimed at improving labor market flexibility has (un)intended consequences on macroeconomic variables. I developed a New Keynesian model with an environment characterized by frictions in the labor market. I investigate the effects of labor market reforms, described by a permanent change in the labor market freedom index (LMFI), a proxy for reform. The main findings are threefold. First, the long-run implication of improving labor market flexibility depends on the policy’s channel. Second, wage rigidity only matters in the short-run as it either lengthens or quickens the transition path. Third, firms tend to respond differently in the short-run when reform is pre-announced.
+abstract: We ask whether the disadvantages facing minority- and women-owned firms stem from weaker product-market condition or differential credit access, and whether they differ at the intersection of race and gender. Using the restricted-access Kauffman Firm Survey, we study capital misallocation in a unified framework. Because average revenue products conflate output-price differences in capital marginal productivity, we estimate a two-step system that decomposes the average revenue product of capital into a markup wedge and a credit wedge. Relative to White male-owned firms, White female-owned firms show little output-market penalty yet remain undercapitalized; Black female-owned firms face weaker output-market conditions and higher loan-rejection rates, concentrated among smaller firms; and Black male-owned firms face the largest, most persistent markup wedges alongside positive credit wedges. Across groups, product-market disadvantages are at least as important as-and often larger than-credit frictions, except for White female-owned firms, whose central constraint is undercapitalization; pooled race-only or gender-only comparisons obscure this heterogeneity.
 
 # Summary. An optional shortened abstract.
-summary:  How well does labor market reform perform under different market conditions? This paper shows that a reform aimed at improving labor market flexibility has (un)intended consequences on macroeconomic variables. I developed a New Keynesian model with an environment characterized by frictions in the labor market. I investigate the effects of labor market reforms, described by a permanent change in the labor market freedom index (LMFI), a proxy for reform. The main findings are threefold. First, the long-run implication of improving labor market flexibility depends on the policy’s channel. Second, wage rigidity only matters in the short-run as it either lengthens or quickens the transition path. Third, firms tend to respond differently in the short-run when reform is pre-announced.
+summary:  We ask whether the disadvantages facing minority- and women-owned firms stem from weaker product-market condition or differential credit access, and whether they differ at the intersection of race and gender. Using the restricted-access Kauffman Firm Survey, we study capital misallocation in a unified framework. Because average revenue products conflate output-price differences in capital marginal productivity, we estimate a two-step system that decomposes the average revenue product of capital into a markup wedge and a credit wedge. Relative to White male-owned firms, White female-owned firms show little output-market penalty yet remain undercapitalized; Black female-owned firms face weaker output-market conditions and higher loan-rejection rates, concentrated among smaller firms; and Black male-owned firms face the largest, most persistent markup wedges alongside positive credit wedges. Across groups, product-market disadvantages are at least as important as-and often larger than-credit frictions, except for White female-owned firms, whose central constraint is undercapitalization; pooled race-only or gender-only comparisons obscure this heterogeneity.
 
 
 
@@ -31,7 +31,7 @@ featured: true
 
 links:
 
-url_pdf: https://drive.google.com/file/d/1taTCVK24f0hAiWDRxc3TlvN6haznw9nf/view?usp=drive_link
+url_pdf: https://drive.google.com/file/d/1utmYDcb4Ot_MJHhhixWtrQEvs2MT2Xtc/view?usp=drive_link
 url_code: ''
 url_dataset: ''
 url_poster: ''
