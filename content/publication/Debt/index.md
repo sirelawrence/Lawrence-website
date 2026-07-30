@@ -3,6 +3,8 @@ title: "Debt sustainability and the fiscal reaction function: Evidence from MIST
 authors:
 - Lawrence Ogbeifun, Shobande Olatunji
 date: "2020-09-30"
+tags:
+  - Selected-Macro
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
