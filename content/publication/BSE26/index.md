@@ -4,6 +4,8 @@ title: "Core Pathway to Net Zero: Dissecting the Non‐Linear Dynamics Between C
 authors:
 - Shobande Olatunji, Lawrence Ogbeifun, Aviral Kumar Tiwari
 date: "2026-03-07"
+tags:
+  - Selected-Env
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
