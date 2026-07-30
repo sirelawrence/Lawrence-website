@@ -4,6 +4,8 @@ title: "Debt by rules: Recrafting impact of infrastructure investments and busin
 authors:
 - Shobande Olatunji, Lawrence Ogbeifun
 date: "2025-01-27"
+tags:
+  - Selected-Macro
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
