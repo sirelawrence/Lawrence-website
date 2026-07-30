@@ -9,9 +9,9 @@ active: true
 # This file represents a page section.
 headless: true
 
-weight: 25
+weight: 22
 
-title: Publications
+title: "Selected Publications: Monetary, Fiscal & Macroeconomics"
 subtitle: ""
 
 content:
@@ -21,12 +21,10 @@ content:
   count: 0
   # Page order. Descending (desc) or ascending (asc) date.
   order: desc
-  # Optionally filter posts by a taxonomy term.
-  # filters:
-   # tag: ''
-   # category: ''
-   # publication_type: ''
-   
+  # Show only publications tagged for the selected macro group.
+  filters:
+    tag: Selected-Macro
+
 design:
   # Toggle between the various page layout types.
   #   1 = List
@@ -34,6 +32,5 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 4
-  
----
 
+---
