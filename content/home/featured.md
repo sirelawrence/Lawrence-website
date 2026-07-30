@@ -4,7 +4,7 @@
 widget: featured
 
 # Status
-active: true
+active: false
 
 # This file represents a page section.
 headless: true
