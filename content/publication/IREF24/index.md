@@ -4,6 +4,8 @@ title: "Crafting monetary policy beyond low carbon legacy"
 authors:
 - Shobande Olatunji, Lawrence Ogbeifun, Apergis Nicholas
 date: "2024-04-02"
+tags:
+  - Selected-Macro
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
