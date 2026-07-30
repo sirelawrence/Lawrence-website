@@ -1,5 +1,5 @@
 ---
-title: Labor Market Reform in a Business Cycle Framework (Job Market Paper)
+title: Labor Market Reform in a Business Cycle Framework
 
 authors:
 - Lawrence Ogbeifun
@@ -38,7 +38,7 @@ featured: true
 
 links:
 
-url_pdf: https://drive.google.com/file/d/1UEnHJfocneryaAnKUsh3dPmHandBPyRu/view?usp=drive_link
+# url_pdf: https://drive.google.com/file/d/1UEnHJfocneryaAnKUsh3dPmHandBPyRu/view?usp=drive_link
 url_code: '' 
 url_dataset: ''
 url_poster: ''
