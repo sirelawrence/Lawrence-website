@@ -18,11 +18,12 @@ bio: Lawrence Ogbeifun is an Assistant Professor of Economics at Hartwick Colleg
 
 # Interests to show in About widget
 interests:
+- Monetary Economics
+- Time Series Analysis
 - Macroeconomics
+- Labor Economics
+- Environmental Economics
 - DSGE Models
-- Labor economics
-- Environmental economics
-- Monetary economics
 
 # Education to show in About widget
 education:
@@ -53,7 +54,7 @@ social:
   link: https://twitter.com/sirelawrence
 - icon: google-scholar  # Alternatively, use `graduation-cap` icon from `fas` icon pack
   icon_pack: ai
-  link: https://scholar.google.com/citations?pli=1&authuser=2&user=qC1Bq6cAAAAJ
+  link: https://scholar.google.com/citations?user=qC1Bq6cAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/sirelawrence
