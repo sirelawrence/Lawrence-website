@@ -4,6 +4,8 @@ title: "Crafting impact of crime on carbon intensity: An asymmetric analysis"
 authors:
 - Shobande Olatunji, Lawrence Ogbeifun, Aviral Kumar Tiwari
 date: "2026-03-03"
+tags:
+  - Selected-Env
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
