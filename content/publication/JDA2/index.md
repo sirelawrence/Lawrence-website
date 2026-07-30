@@ -29,7 +29,7 @@ featured: true
 
 links:
 - name: DOI
-  url: "doi.org/10.1353/jda.2024.a931319"
+  url: "https://doi.org/10.1353/jda.2024.a931319"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
