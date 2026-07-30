@@ -5,31 +5,24 @@
 
 main:
   - name: Home
-    url: '#about'
+    url: '/'
     weight: 10
   - name: Research
-    url: '#publication_workingpaper'
+    url: '/#publication_workingpaper'
     weight: 20
   - name: Publications
-    url: '#featured'
-    weight: 30
-  - name: All Publications
     url: '/publication/'
-    weight: 35
+    weight: 30
   - name: Teaching
-    url: '#experience'
+    url: '/teaching/'
     weight: 40
   - name: Lecture Notes
-    url: '#lecturenotes'
+    url: '/lecturenotes/'
     weight: 50
   # Link to a PDF of your resume/CV from the menu.
-  # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
     url: https://drive.google.com/file/d/1FV3jXMf0TVh_OG5naMkKIlEqnamwzgsU/view?usp=sharing
     weight: 5
-  # - name: Publications
-  #  url: '#featured'
-  #  weight: 50
   - name: Contact
-    url: '#contact'
+    url: '/contact/'
     weight: 70
