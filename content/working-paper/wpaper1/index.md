@@ -25,6 +25,8 @@ publication_short: ""
 
 abstract: How does labor market reform contribute to business cycle dynamics? I develop a real business cycle model in which labor market reform aﬀects economic activity both by improving employment matching eﬃciency and by reducing vacancy posting costs. I then use shocks to a labor market freedom index (LMFI) to proxy for labor market reform in the United States and calibrate the model assuming the labor market reform has two diﬀerent components-improved matching eﬃciency and reduced vacancy posting cost-to test the empirical relevance of these two mechanisms. The results from the structural model show that, depending on the mechanism, a labor market reform can produce either a net positive or net negative impact on the vacancy rate. The impulse responses in a VAR framework for U.S. data and OECD data generate a positive net eﬀect of the LMFI shock on the vacancy rate, similar to the result obtained from the structural model with the vacancy posting cost channel
 
+summary: "How does labor market reform shape business cycle dynamics? I build a real business cycle model in which reform works through two channels — better job-matching efficiency and lower vacancy-posting costs — and use shocks to a U.S. labor market freedom index to test their relevance. Both the structural model and VAR evidence point to the vacancy-cost channel producing a net positive effect on vacancies."
+
 draft: false
 
 tags:
