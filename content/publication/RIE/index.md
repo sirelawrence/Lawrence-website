@@ -4,6 +4,8 @@ title: "Exploring the implications of FOREX restriction policies: Theory and new
 authors:
 - Lawrence Ogbeifun, Shobande Olatunji
 date: "2025-02-19"
+tags:
+  - Selected-Macro
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
