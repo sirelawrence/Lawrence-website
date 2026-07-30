@@ -4,6 +4,8 @@ title: "Do Structural Transformation and Energy Transition Cause Growth?"
 authors:
 - Shobande Olatunji, Lawrence Ogbeifun, Aviral Kumar Tiwari
 date: "2025-05-16"
+tags:
+  - Selected-Env
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
